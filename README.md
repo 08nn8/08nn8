@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laith Ghalib</h1>
 <h3 align="center">A passionate frontend developer from Jordan</h3>
 
-- 👨‍💻 All of my projects are available at [https://laith-ghalib.netlify.app](https://laith-ghalib.netlify.app)
+- 👨‍💻 All of my projects are available at [https://laithghalib.netlify.app](https://laith-ghalib.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
