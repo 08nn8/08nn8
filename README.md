@@ -56,8 +56,8 @@
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
       <br>Bootstrap
     </td> -->
-  </tr>
-  <tr>
+<!--   </tr> -->
+<!--   <tr> -->
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="65" height="65" />
       <br>Figma
