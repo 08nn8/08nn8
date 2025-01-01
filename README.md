@@ -28,7 +28,7 @@
 <br><br>
 </div>
 
-<h3 align="center">Languages and Tools: <img src = "./assets/giphy.gif" width ="23"> </h3>
+<h3 align="center">Languages and Tools width ="23"> </h3>
 
 <table align="center">
 <tr>
