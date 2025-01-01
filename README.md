@@ -28,7 +28,7 @@
 <br><br>
 </div>
 
-<h3 align="center">Languages and Tools</h3>
+<h3 align="center">Languages and Tools used</h3>
 
 <table align="center">
 <tr>
