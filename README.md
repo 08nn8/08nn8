@@ -1,9 +1,3 @@
-<!-- <div align="center">
-<img src="./assets/mario.gif" align="center" style="width: 1000px" />
-</div> -->
-
-###
-
 <h1 align="center"><samp>Hi, I'm Laith</samp></h1>
 
 <h3 align="center"><samp>A Software Engineer </samp></h3>
@@ -48,16 +42,12 @@
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
-<!--     <td align="center"  width="100">
+<td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       <br>Tailwind
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
-      <br>Bootstrap
-    </td> -->
-<!--   </tr> -->
-<!--   <tr> -->
+</tr>
+  <tr>
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="65" height="65" />
       <br>Figma
