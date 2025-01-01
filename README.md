@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="" target="_blank">Musaab</a></samp></h1>
+<h1 align="center"><samp>Hi <img src="./assets/hello.gif"/> , I'm <a href="" target="_blank">Laith</a></samp></h1>
 
 <h3 align="center"><samp>A Software Engineer from Yemen living in Turkey</samp></h3>
 
