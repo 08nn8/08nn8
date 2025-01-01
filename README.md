@@ -6,13 +6,7 @@
 
 <h1 align="center"><samp>Hi, I'm <a href="" target="_blank">Laith</a></samp></h1>
 
-<h3 align="center"><samp>A Software Engineer from Yemen living in Turkey</samp></h3>
-
-<h4 align="center"><samp>- I’m currently working on expanding my skills in full-stack development.</samp></h4>
-
-<h4 align="center"><samp align="center">- I’m currently learning Mobile app Development</samp></h4>
-
-<h4 align="center"><samp align="center">- I'm interested in AI and Machine Learning</samp></h4>
+<h3 align="center"><samp>A Software Engineer </samp></h3>
 
 ###
 
@@ -20,17 +14,12 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="https://www.linkedin.com/in/musaab-mohammed-kubbi-475911212/" target="_blank">
+      <a href="https://www.linkedin.com/in/laith-ghalib" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="65" height="65" />
       </a>
     </td>
     <td align="center" width="100">
-      <a href="https://x.com/MusaabK99" target="_blank">
-        <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="65" height="65" />
-      </a>
-    </td>
-    <td align="center" width="100">
-      <a href="mailto:mkbusiness202@gmail.com">
+      <a href="mailto:laithbusiness50@gmail.com">
         <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="65" height="65" />
       </a>
     </td>
