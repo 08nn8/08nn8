@@ -36,10 +36,10 @@
         <img src="https://skillicons.dev/icons?i=js" alt="js" width="65" height="65" />
       <br>JavaScript
     </td>
-      <td align="center" width="100">
+<!--       <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=react" alt="react" width="65" height="65" />
       <br>React
-    </td>
+    </td> -->
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
       <br>HTML
@@ -48,14 +48,14 @@
         <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="css" />
       <br>CSS
     </td>
-    <td align="center"  width="100">
+<!--     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       <br>Tailwind
     </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="bootstrap" />
       <br>Bootstrap
-    </td>
+    </td> -->
 <!--   </tr> -->
 <!--   <tr> -->
   <td align="center" width="100">
