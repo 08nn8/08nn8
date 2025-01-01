@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center"><samp>Hi, I'm <a href="" target="_blank">Laith</a></samp></h1>
+<h1 align="center"><samp>Hi, I'm Laith</samp></h1>
 
 <h3 align="center"><samp>A Software Engineer </samp></h3>
 
