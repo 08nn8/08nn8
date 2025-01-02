@@ -46,10 +46,6 @@
         <img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="tailwind" />
       <br>Tailwind
     </td>
-<td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="tailwind" />
-      <br>Bootstrap
-    </td>
 </tr>
   <tr>
   <td align="center" width="100">
