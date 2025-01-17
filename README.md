@@ -5,7 +5,7 @@
 ###
 
 <h3 align="center"><samp>Connect</samp></h3>
-<table align="center">
+<table text-align="center">
   <tr>
     <td align="center" width="100">
       <a href="https://www.linkedin.com/in/laith-ghalib" target="_blank">
