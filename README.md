@@ -1,6 +1,5 @@
 <h1 align="center"><samp>Hi, I'm Laith</samp></h1>
 <h3 align="center"><samp>A Software Engineer </samp></h3>
-###
 <h3 align="center"><samp>Connect</samp></h3>
 <table align="center">
   <tr>
