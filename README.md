@@ -50,9 +50,9 @@
         <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="65" height="65" />
       <br>Figma
     </td>
-    <td align="center" width="100"> 
+<!--     <td align="center" width="100"> 
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
       <br>Git
-    </td>
+    </td> -->
   </tr>
 </table>
