@@ -17,7 +17,7 @@
 </table>
 <br><br>
 </div>
-<h3 align="center">Languages and Tools I use</h3>
+<h3 align="center">Languages and Tools I Work</h3>
 <table align="center">
 <tr>
       <td align="center" width="100">
