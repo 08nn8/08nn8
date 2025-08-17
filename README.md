@@ -51,7 +51,7 @@
       <br>Figma
     </td>
     <td align="center" width="100"> 
-        <img src="https://skillicons.dev/icons?i=Nextjs" width="65" height="65" alt="Git" />
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Git" />
       <br>Nextjs
     </td>
 <!--     <td align="center" width="100"> 
