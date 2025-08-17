@@ -24,6 +24,10 @@
         <img src="https://skillicons.dev/icons?i=react" alt="react" width="65" height="65" />
       <br>React
     </td>
+    <td align="center" width="100"> 
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Git" />
+      <br>Nextjs
+    </td>
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=js" alt="js" width="65" height="65" />
       <br>JavaScript
@@ -49,10 +53,6 @@
   <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="65" height="65" />
       <br>Figma
-    </td>
-    <td align="center" width="100"> 
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="Git" />
-      <br>Nextjs
     </td>
 <!--     <td align="center" width="100"> 
         <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
