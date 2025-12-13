@@ -3,7 +3,6 @@ I’m [**Laith**](https://laithghalib.vercel.app), a web developer based in Jord
 
 My main tech stack is React, TypeScript, and tailwind. My favorite tools are Figma, Apple Notes, Obsidian, and Notion.
 
+#### Fun Facts:
 
-Fun Facts:
-
-    Hobbies: Games, Movies, Tech
+* **Hobbies:** Games, Movies, Tech
