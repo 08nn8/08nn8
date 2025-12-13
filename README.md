@@ -5,4 +5,4 @@ My main tech stack is React, TypeScript, and tailwind. My favorite tools are Fig
 
 #### About Me:
 
-* **Hobbies:** Games, Movies, Tech
+* **Hobbies:** Games, Tech, Movies
